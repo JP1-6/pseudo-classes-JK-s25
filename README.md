@@ -1,2 +1,2 @@
 # pseudo-classes-JK-s25
-my tutorial on pseudo classes
+my tutorial on pseudo classes assignment
